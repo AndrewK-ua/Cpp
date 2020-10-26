@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ice cream",
+    "price": "40.99",
+    "dateOfConsumption": "2020-11-20",
+    "dateOfManufacture": "2020-11-09"
+  },
+  {
+    "name": "Chocolate",
+    "price": "10.30",
+    "dateOfConsumption": "2020-11-23",
+    "dateOfManufacture": "2020-11-15"
+  },
+  {
+    "name": "Butter",
+    "price": "100.49",
+    "dateOfConsumption": "2020-11-23",
+    "dateOfManufacture": "2020-11-16"
+  },
+  {
+    "name": "Milk",
+    "price": "41.00",
+    "dateOfConsumption": "2020-11-22",
+    "dateOfManufacture": "2019-08-04"
+  },
+  {
+    "name": "Cake",
+    "price": "199.99",
+    "dateOfConsumption": "2020-11-28",
+    "dateOfManufacture": "2018-09-09"
+  },
+  {
+    "name": "Cheese",
+    "price": "124.49",
+    "dateOfConsumption": "2020-11-22",
+    "dateOfManufacture": "2016-12-10"
+  }
+]
